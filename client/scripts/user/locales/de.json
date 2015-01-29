@@ -1,0 +1,28 @@
+{
+    "LOGGED_IN":
+        "Sie sind jetzt angemeldet.",
+    "CREDENTIALS_ERROR":
+        "Keine Anmeldung mit diesen Zugangsdaten möglich.",
+    "USERNAME":
+        "Nutzername",
+    "PASSWORD":
+        "Passwort",
+    "PLEASE_SIGN_IN":
+        "Bitte melden Sie sich an",
+    "LOGIN":
+        "Anmeldung",
+    "SIGN_IN_ACTION":
+        "Anmelden",
+    "SIGN_OUT_ACTION":
+        "Abmelden",
+    "MY_PROFILE":
+        "Mein Profil",
+    "LOGGED_OUT":
+        "Sie sind jetzt abgemeldet.",
+    "USER_NAME":
+        "Nutzername",
+    "SESSION_EXPIRED":
+        "Die Sitzung ist abgelaufen",
+    "SESSION_EXPIRED_MESSAGE":
+        "Sie müssen sich erneut anmelden."
+}

@@ -1,0 +1,28 @@
+{
+  "EMPTY_VALUE":
+                    "&lt;Leer&gt;",
+  "TASK_VARIABLES":
+                    "Variablen",
+  "VARIABLE_OBJECT_TYPE_NAME":
+                    "Objekttypname",
+  "VARIABLE_VALUE_INFO":
+                    "Wert-Info",
+  "VARIABLE_SERIALIZATION_DATA_FORMAT":
+                    "Datenformat der Serialisierung",
+  "DOWNLOAD":
+                    "Download",
+  "LESS_VARIABLES":
+                    "Weniger Variablen anzeigen",
+  "MORE_VARIABLES":
+                    "Mehr Variablen anzeigen",
+  "UNDEFINED_VARIABLE":
+                    "&lt;Undefiniert&gt;",
+  "TOGGLE":
+                    "Umschalten",
+  "SERIALIZED":
+                    "Serialisiert",
+  "DESERIALIZED":
+                    "Deserialisiert",
+  "DESERIALIZATION_ERROR":
+                    "Deserialisierungsfehler"
+}

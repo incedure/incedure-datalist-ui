@@ -1,0 +1,36 @@
+{
+  "FORM_FAILURE":
+                        "Formularfehler:",
+  "INIT_EXTERNAL_FORM_FAILED":
+                        "Externe Formular-URL kann nicht initialisiert werden: Entweder die Aufgaben-ID oder eine Prozessdefinition muss mitgeteilt werden. Versuchen Sie die Seite zu aktualisieren.",
+  "TASK_EXTERNAL_FORM_NOTE":
+                        "Diese Aufgabe beinhaltet ein externes Formular, um die Aufgabe abzuschließen. Um das externe Formular zu öffnen, klicken Sie unten auf die Verknüpfung \"Externes Formular öffnen \".",
+  "PROCESS_EXTERNAL_FORM_NOTE":
+                        "Dieser Prozess enthält ein externes Formular, um eine neue Prozessinstanz zu starten. Um das externe Formular zu öffnen, klicken Sie unten auf die Verknüpfung \"Externes Formular öffnen \".",
+  "USE_GENERIC_FORM":
+                        "Sie können mit Hilfe eines generischen Formulars Variablen setzen, indem Sie unten auf die Verknüpfung \"Externes Formular öffnen\" klicken.",
+  "EXTERNAL_FORM_LINK":
+                        "Externes Formular öffnen",
+  "SAVE_HINT":
+                        "Den aktuellen Stand des Formulars speichern, um später die Arbeit fortzusetzen",
+  "ADD_VARIABLE":
+                        "Variable hinzufügen",
+  "NAME":
+                        "Name",
+  "TYPE":
+                        "Typ",
+  "VALUE":
+                        "Wert",
+  "VARIABLE_NAME":
+                        "Variablenname",
+  "VARIABLE_TYPE":
+                        "Variablentyp",
+  "LOAD_VARIABLES":
+                        "Variablen laden",
+  "LOAD_VARIABLES_FAILURE":
+                        "Kann Variablen nicht laden",
+  "NO_TASK_VARIABLES":
+                        "Diese Aufgabe beinhaltet keine Variablen",
+  "REQUIRE_UNIQUE_NAME":
+                        "Name muss eindeutig sein"
+}

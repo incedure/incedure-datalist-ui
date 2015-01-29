@@ -1,0 +1,227 @@
+{
+  "ADD":
+        "Hinzufügen",
+  "REMOVE":
+        "Entfernen",
+  "SUCCESSFUL":
+        "Erfolgreich",
+  "FAILED":
+        "Fehlgeschlagen",
+  "FAILURE":
+        "Gescheitert",
+  "FINISHED":
+        "Abgeschlossen",
+  "INIT_GROUPS_FAILURE":
+        "Laden der Gruppen der ausgewählten Aufgabe fehlgeschlagen. Versuchen Sie die Seite zu aktualisieren.",
+  "ADD_GROUP_FAILED":
+        "Hinzufügen der Gruppe zur ausgewählten Aufgabe mit Fehler abgeschlossen. Versuchen Sie die Seite zu aktualisieren.",
+  "REMOVE_GROUP_FAILED":
+        "Entfernen der Gruppe der ausgewählten Aufgabe mit Fehler abgeschlossen. Versuchen Sie die Seite zu aktualisieren.",
+  "TASK_NAME":
+        "Aufgabenname",
+  "SEARCH_BY_TASK_NAME":
+        "Nach Aufgabenname suchen, Groß- / Kleinschreibung beachten.",
+  "FOLLOW_UP_DATE":
+        "Wiedervorlagedatum",
+  "DUE_DATE":
+        "Fälligkeitsdatum",
+  "ASSIGNEE":
+        "Bearbeiter",
+  "ACTION":
+        "Aktion",
+  "GROUP":
+        "Gruppe",
+  "GROUPS":
+        "Gruppen",
+  "MANAGE_GROUPS":
+        "Gruppen verwalten",
+  "GROUPS_ADD":
+        "Gruppen hinzufügen",
+  "CURRENT_GROUPS":
+        "Aktuelle Gruppen",
+  "GROUP_ID":
+        "Gruppen-ID",
+  "GROUP_ADD":
+        "Gruppe hinzufügen",
+  "GROUP_REMOVE":
+        "Gruppen entfernen",
+  "GROUP_ADD_ERROR":
+        "Gruppe konnte nicht hinzugefügt werden",
+  "GROUP_DELETE_ERROR":
+        "Gruppe konnte nicht entfernt werden",
+  "ADD_GROUPS":
+        "Gruppen hinzufügen",
+  "USE_ADD_GROUP":
+        "Sie können eine Gruppe hinzufügen, indem Sie eine Gruppen-ID in das Feld eintragen und anschließend auf das Pluszeichen klicken.",
+  "DUPLICATE_GROUP":
+        "Aufgabe ist bereits in dieser Gruppe.",
+  "OWNER":
+        "Eigentümer",
+  "DIAGRAM":
+        "Diagramm",
+  "RENDERING":
+        "Darstellung wird geladen",
+  "DIAGRAM_RENDER_FAILURE":
+        "Darstellung gescheitert",
+  "FORM":
+        "Formular",
+  "NO_TASK_FORM":
+        "",
+  "HISTORY":
+        "Historie",
+  "NO_HISTORY":
+        "Für diese Aufgabe gibt es keine Historie.",
+  "COMMENT":
+        "Kommentar",
+  "COMMENT_CREATE":
+        "Kommentar hinzufügen",
+  "COMMENT_MESSAGE_PLACEHOLDER":
+        "Kommentar einfügen",
+  "COMMENT_SAVE_ERROR":
+        "Kommentar konnte nicht gespeichert werden",
+  "DESCRIPTION":
+        "Beschreibung",
+  "NO_DESCRIPTION":
+        "Für diese Aufgabe gibt es keine Beschreibung.",
+  "NO_DIAGRAM":
+        "Kein Diagramm verfügbar.",
+  "SELECT_TASK_IN_LIST":
+        "Wählen Sie eine Aufgabe aus der Liste.",
+  "CLAIM_TASK":
+        "Diese Aufgabe übernehmen",
+  "UNCLAIM_TASK":
+        "Diese Aufgabe freigeben",
+  "RESET_TASK_ASSIGNEE":
+        "Bearbeiter zurücksetzen",
+  "DELEGATE_TASK":
+        "Delegieren",
+  "SET_FOLLOW_UP_DATE":
+        "Wiedervorlagedatum setzen",
+  "RESET_FOLLOW_UP_DATE":
+        "Wiedervorlagedatum zurücksetzen",
+  "SET_DUE_DATE":
+        "Fälligkeitsdatum setzen",
+  "RESET_DUE_DATE":
+        "Fälligkeitsdatum zurücksetzen",
+  "ASSIGNED_TO_YOU":
+        "Ihnen zugewiesen",
+  "OWNER_IS_YOU":
+        "Sie sind der Eigentümer",
+  "ASSIGNEE_RESET_OK":
+        "Der Bearbeiter wurde zurückgesetzt.",
+  "ASSIGNEE_RESET_ERROR":
+        "Der Bearbeiter konnte nicht zurückgesetzt werden.",
+
+  "TASK_NO_PROCESS_DEFINITION":
+        "Prozessdefinition der Aufgabe konnte nicht gefunden werden.",
+
+  "CLAIM_OK":
+        "Die Aufgabe wurde übernommen.",
+  "CLAIM_ERROR":
+        "Beim Übernehmen der Aufgabe ist ein undefinierter Fehler aufgetreten.",
+
+  "UNCLAIM_OK":
+        "Die Aufgabe wurde freigegeben.",
+  "UNCLAIM_ERROR":
+        "Beim Freigeben der Aufgabe ist ein undefinierter Fehler aufgetreten.",
+
+  "RESOLVE_OK":
+        "Die Aufgabe wurde gelöst.",
+  "RESOLVE_ERROR":
+        "Beim Lösen der Aufgabe ist ein undefinierter Fehler aufgetreten.",
+
+  "DELEGATE_OK":
+        "Die Aufgabe wurde delegiert.",
+  "DELEGATE_ERROR":
+        "Beim Delegieren der Aufgabe ist ein undefinierter Fehler aufgetreten.",
+
+  "ASSIGNED_OK":
+        "Die Aufgabe wurde zugewiesen.",
+  "ASSIGNED_ERROR":
+        "Beim Zuweisen der Aufgabe ist ein undefinierter Fehler aufgetreten.",
+
+  "COMPLETE_OK":
+        "Die Aufgabe wurde abgeschlossen.",
+  "COMPLETE_ERROR":
+        "Beim Abschließen der Aufgabe ist ein undefinierter Fehler aufgetreten.",
+
+  "TASK_UPDATE_SUCESS":
+        "Die Aufgabe wurde gespeichert.",
+  "TASK_UPDATE_ERROR":
+        "Die Aufgabe konnte nicht gespeichert werden.",
+
+  "TASK_NOT_EXIST":
+        "Die Aufgabe existiert nicht mehr",
+  "INSTANCE_SUSPENDED":
+        "Die Aufgabe ist derzeit suspendiert",
+
+  "COMPLETE":
+        "Fertig",
+
+  "NONE":
+        "Kein",
+
+  "Assign":
+        "Zuweisen",
+  "Claim":
+        "Übernehmen",
+  "Complete":
+        "Abgeschlossen",
+  "Create":
+        "Erstellen",
+  "Delegate":
+        "Delegieren",
+  "Delete":
+        "Löschen",
+  "Resolve":
+        "Lösen",
+  "SetOwner":
+        "Eigentümer setzen",
+  "SetPriority":
+        "Priorität setzen",
+  "Update":
+        "Aktualisieren",
+  "Activate":
+        "Aktivieren",
+  "Suspend":
+        "Suspendieren",
+  "AddUserLink":
+        "Anwenderverknüpfung hinzufügen",
+  "DeleteUserLink":
+        "Anwenderverknüpfung löschen",
+  "AddGroupLink":
+        "Gruppenverknüpfung hinzufügen",
+  "DeleteGroupLink":
+        "Gruppenverknüpfung löschen",
+  "AddAttachment":
+        "Anhang hinzufügen",
+  "DeleteAttachment":
+        "Anhang löschen",
+
+  "assignee":
+        "Bearbeiter",
+  "delegation":
+        "Delegation",
+  "delete":
+        "Löschen",
+  "description":
+        "Beschreibung",
+  "dueDate":
+        "Fälligkeitsdatum",
+  "followUpDate":
+        "Wiedervorlagedatum",
+  "name":
+        "Name",
+  "owner":
+        "Eigentümer",
+  "parentTask":
+        "Hauptaufgabe",
+  "priority":
+        "Priorität",
+  "caseInstanceId":
+        "Fallinstanz-ID",
+  "UPLOAD":
+        "Hochladen",
+  "NO_UPLOAD_TASK":
+        "Hochladen nicht nötig."
+}

@@ -1,0 +1,16 @@
+{
+  "PROCESS_NAME":
+                        "Prozessname",
+  "PROCESS_START_OK":
+                        "Der Prozess wurde gestartet.",
+  "PROCESS_START_ERROR":
+                        "Der Prozess konnte nicht gestartet werden.",
+  "SEARCH_PROCESS_BY_NAME":
+                        "Prozessnamensuche unter Beachtung der Groß und Kleinschreibung.",
+  "NO_PROCESS_DEFINITION_AVAILABLE":
+                        "Es existieren keine Prozessdefinitionen.",
+  "START_PROCESS":
+                        "Einen Prozess starten",
+  "CLICK_PROCESS_TO_START":
+                        "Klicke Sie auf einen Prozess, um diesen zu starten."
+}

@@ -1,0 +1,32 @@
+{
+  "SORT_BY":
+                  "Sortieren nach",
+  "PRIORITY":
+                  "Priorität",
+  "CREATION_DATE":
+                  "Erstelldatum",
+  "SEARCH_PLACEHOLDER":
+                  "Nach Aufgaben suchen",
+  "DELETE_SEARCH":
+                  "Suche entfernen",
+  "PROPERTY":
+                  "Eigenschaft",
+  "OPERATOR":
+                  "Operator",
+  "INVALID_SEARCH":
+                  "Diese Suche ist ungültig",
+  "BEFORE":
+                  "Bevor",
+  "AFTER":
+                  "Nach",
+  "SEARCH_TASK_BY_NAME":
+                  "Nach Aufgabennamen suchen, Groß- / Kleinschreibung beachten.",
+  "NO_MATCHING_TASK":
+                  "Keine passenden Aufgaben zu diesen Filtern gefunden.",
+  "RESTRICTION_NOTICE":
+                  "Die aktuellen Suchparameter konnten keine Aufgaben aufrufen. Versuchen Sie die Suchparameter zurückzusetzen",
+  "RESET_PAGE":
+                  "Seitenzahl zurücksetzen",
+  "TASK_LIST_LOADING_FAILURE":
+                  "Laden der Aufgabenliste mit Fehler abgeschlossen. Versuchen Sie die Seite zu aktualisieren."
+}

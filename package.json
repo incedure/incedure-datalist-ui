@@ -1,0 +1,47 @@
+{
+    "private": true,
+    "publishConfig" : {
+        "registry" : "registry = http://nexus.rootapp.de/content/repositories/npm-internal/"
+    },
+    "name": "incedure-datalist-ui",
+    "version": "7.3.0-SNAPSHOT",
+    "description": "A web based interface for camunda BPM platform data support.",
+    "main": "client/scripts/index.js",
+    "keywords": [
+        "incedure",
+        "camunda",
+        "bpm",
+        "datalist",
+        "ui",
+        "webapp"
+    ],
+    "authors": [
+        "Valentin Vago <valentin.vago@camunda.com>",
+        "Dr. Hagen Jung <hj@incedure.com>"
+    ],
+    "license": "Apache-2.0",
+    "gruntConfig": {
+        "connectPort": 8010,
+        "livereloadPort": 8011,
+        "clientDir": "client",
+        "prodTarget": "dist",
+        "devTarget": "dist/app/datalist"
+    },
+    "devDependencies": {
+        "amdefine": "0.1.0",
+        "bower": "1.3.12",
+        "camunda-commons-ui": "7.3.0-SNAPSHOT",
+        "grunt": "0.4.5",
+        "grunt-cli": "0.1.13",
+        "grunt-contrib-clean": "0.5.0",
+        "grunt-contrib-copy": "0.5.0",
+        "grunt-contrib-jshint": "0.10.0",
+        "grunt-contrib-less": "0.11.0",
+        "grunt-contrib-requirejs": "0.4.4",
+        "grunt-contrib-watch": "0.6.1",
+        "grunt-newer": "0.7.0",
+        "load-grunt-tasks": "0.4.0",
+        "requirejs": "2.1.11",
+        "underscore": "1.6.0"
+    }
+}

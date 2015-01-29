@@ -1,0 +1,125 @@
+{
+  "FILTER_CREATE":
+                        "Filter erzeugen",
+  "FILTER_EDIT":
+                        "Filter ändern",
+  "FILTER_DETAILS":
+                        "Filtermerkmale",
+  "FILTER_DELETE":
+                        "Filter löschen",
+
+  "FILTER_DELETION_WARNING":
+                        "Das Löschen des Filters kann nicht rückgängig gemacht werden. Wollen Sie wirklich fortfahren?",
+  "FILTER_DELETION_SUCCESS":
+                        "Der Filter wurde gelöscht",
+  "FILTER_DELETION_ERROR":
+                        "Es trat ein undefinierter Fehler beim Löschen des Filters auf",
+
+  "FILTER_SAVE_SUCCESS":
+                        "Der Filter wurde gespeichert",
+  "FILTER_SAVE_ERROR":
+                        "Es trat ein undefinierter Fehler bei Speichern des Filters auf",
+
+  "FILTER_NOT_FOUND":
+                        "Filter nicht gefunden",
+
+  "FILTER_FORM_BASICS":
+                        "Allgemein",
+  "FILTER_FORM_BASICS_HINT":
+                        "Das Auftreten des Filters personalisieren",
+  "FILTER_NAME_LABEL":
+                        "Name",
+  "FILTER_NAME_PLACEHOLDER":
+                        "Meine Aufgaben",
+  "FILTER_PRIORITY_LABEL":
+                        "Priorität",
+  "FILTER_COLOR_LABEL":
+                        "Farbe",
+  "FILTER_DESCRIPTION_LABEL":
+                        "Beschreibung",
+  "FILTER_DESCRIPTION_PLACEHOLDER":
+                        "Zeige die mir zugewiesenen Aufgaben",
+  "FILTER_REFRESH_LABEL":
+                        "Automatisch aktualisieren",
+  "FILTER_REFRESH_TOOLTIP":
+                        "Neue Änderungen werden aktualisiert und halten die Aufgabenliste aktuell",
+
+  "FILTER_FORM_CRITERIA":
+                        "Kriterien",
+  "FILTER_FORM_CRITERIA_HINT":
+                        "Dieser Abschnitt dient dazu, die Parameter, die zum filtern der Aufgaben verwendet werden, zu setzen. Schlüssel, die mit einem * markiert sind, akzeptieren reguläre Ausdrücke als Wert.",
+  "FILTER_CRITERIA_KEY":
+                        "Schlüssel",
+  "FILTER_CRITERION_SUPPORT_EXPRESSION":
+                        "Sie können bei diesem Kriterium reguläre Ausdrücke verwenden.",
+  "FILTER_CRITERIA_OPERATOR":
+                        "Operator",
+  "FILTER_CRITERIA_VALUE":
+                        "Wert",
+  "FILTER_ADD_CRITERION":
+                        "Kriterium hinzufügen",
+  "FILTER_REMOVE_CRITERION":
+                        "Entfernen",
+
+  "FILTER_FORM_PERMISSIONS":
+                        "Berechtigungen",
+  "FILTER_FORM_PERMISSIONS_GLOBAL":
+                        "Für alle Anwender zugänglich",
+  "FILTER_FORM_PERMISSIONS_LOADING_FAILURE":
+                        "Laden der Berechtigungen mit Fehler abgeschlossen. Versuchen Sie die Seite zu aktualisieren.",
+  "FILTER_FORM_PERMISSIONS_HINT":
+                        "Dieser Abschnitt dient dazu, Leseberechtigungen für den Filter zu setzen.",
+  "FILTER_FORM_PERMISSIONS_EDIT_HINT":
+                        "Um die Leseberechtigungen zu bearbeiten, brauchen Sie die Berechtigung Filter zu erstellen oder zu bearbeiten und eine weitere Berechtigung andere Berechtigungen zu erstellen oder zu bearbeiten.",
+  "FILTER_FORM_PERMISSIONS_IDENTITY_TYPE_TOOLTIP":
+                        "Berechtigungen wird hierfür angewendet",
+  "FILTER_FORM_PERMISSIONS_IDENTITY_TYPE_USER":
+                        "Anwender",
+  "FILTER_FORM_PERMISSIONS_IDENTITY_TYPE_GROUP":
+                        "Gruppe",
+  "FILTER_FORM_PERMISSIONS_REMOVE":
+                        "Entfernen",
+  "FILTER_FORM_PERMISSIONS_SAVE_ERROR":
+                        "Es trat ein undefinierter Fehler bei Speichern der Berechtigung auf",
+  "FILTER_FORM_PERMISSIONS_USER_ID":
+                        "Anwender-ID",
+  "FILTER_FORM_PERMISSIONS_GROUP_ID":
+                        "Grupppen-ID",
+  "FILTER_FORM_PERMISSIONS_DUPLICATE_USER":
+                        "Dieser Anwender hat bereits Leseberechtigungen",
+  "FILTER_FORM_PERMISSIONS_DUPLICATE_GROUP":
+                        "Diese Gruppe hat bereits Leseberechtigungen",
+
+  "FILTER_FORM_VARIABLES":
+                        "Variablen",
+  "FILTER_FORM_VARIABLES_SHOW_UNDEFINED":
+                        "Nicht definierte Variablen zeigen",
+  "FILTER_FORM_VARIABLES_HINT":
+                        "Hier können Sie definieren, welche Variablen in der Aufgabenliste angezeigt werden.",
+  "FILTER_VARIABLE_NAME":
+                        "Name",
+  "FILTER_VARIABLE_LABEL":
+                        "Beschriftung",
+  "FILTER_VARIABLE_NAME_PLACEHOLDER":
+                        "Maschinenname der Variable",
+  "FILTER_VARIABLE_LABEL_PLACEHOLDER":
+                        "Menschenlesbare Beschriftung",
+  "FILTER_ADD_VARIABLE":
+                        "Variable hinzufügen",
+  "FILTER_REMOVE_VARIABLE":
+                        "Entfernen",
+  "FILTER_VARIABLES_AMOUNT_WARNING":
+                        "Wenn zu viele Variablen in der Aufgabenliste angezeigt werden, kann dies die Benutzerfreundlichkeit beeinflussen.",
+
+  "NO_AVAILABLE_FILTER":
+                        "Kein Filter verfügbar.",
+
+  "FILTERS_LOADING_FAILURE":
+                        "Laden der Filter mit Fehler abgeschlossen. Versuchen Sie die Seite zu aktualisieren.",
+
+  "INVALID_DATE":
+                        "Ungültiges Datum: Das Datum sollte das folgende Format haben: 'yyyy-MM-ddTHH:mm:ss'",
+
+  "REQUIRE_UNIQUE_KEY":
+                        "Schlüssel muss eindeutig sein"
+}
