@@ -220,9 +220,5 @@
   "priority":
         "Priority",
   "caseInstanceId":
-        "Case instance id",
-  "UPLOAD":
-        "Upload",
-  "NO_UPLOAD_TASK":
-        "No Uploads needed"
+        "Case instance id"
 }

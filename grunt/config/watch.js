@@ -18,6 +18,8 @@ module.exports = function(config) {
 
     styles: {
       files: [
+        'node_modules/camunda-commons-ui/lib/widgets/**/*.less',
+        'node_modules/camunda-commons-ui/resources/less/**/*.less',
         '<%= pkg.gruntConfig.clientDir %>/styles/**/*.{css,less}',
         '<%= pkg.gruntConfig.clientDir %>/scripts/**/*.{css,less}'
       ],
@@ -60,10 +62,11 @@ module.exports = function(config) {
     },
 
     served: {
-      files: ['<%= buildTarget %>/**/*'],
       options: {
+        cwd: '<%= buildTarget %>/',
         livereload: config.livereloadPort || false
-      }
+      },
+      files: '**/*.{css,html,js}'
     }
   };
 };

@@ -27,7 +27,7 @@ module.exports = function(config) {
   function appConf(content, srcpath) {
     if (srcpath.slice(-4) !== 'html') { return content; }
 
-    var datalistConf = 'var datalistConf = '+ JSON.stringify({
+    var tasklistConf = 'var tasklistConf = '+ JSON.stringify({
       apiUri: '$APP_ROOT/api/engine',
       mock: false,
 
@@ -37,7 +37,7 @@ module.exports = function(config) {
     }, null, 2) +';';
 
     grunt.log.writeln('Wrote application configuration');
-    return content.replace('var datalistConf = {};', datalistConf);
+    return content.replace('var tasklistConf = {};', tasklistConf);
   }
 
 
@@ -86,7 +86,7 @@ module.exports = function(config) {
         },
         {
           expand: true,
-          cwd: '<%= pkg.gruntConfig.clientDir %>/bower_components/bootstrap/fonts',
+          cwd: 'node_modules/camunda-commons-ui/node_modules/bootstrap/fonts',
           src: ['**'],
           dest: '<%= buildTarget %>/fonts/bootstrap/'
         },

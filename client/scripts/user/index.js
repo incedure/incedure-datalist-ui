@@ -1,11 +1,9 @@
 'use strict';
 
-
 define([
   'angular',
-  'camunda-commons-ui/auth',
-  'camunda-tasklist-ui/api',
-
+  'camunda-commons-ui/auth/index',
+  '../api/index',
   './controller/cam-user-logout-ctrl',
   './controller/cam-user-login-ctrl'
 ], function(
@@ -26,8 +24,7 @@ define([
 
   var userModule = angular.module('cam.tasklist.user', [
     auth.name,
-    api.name,
-    'ui.bootstrap',
+    api.name
   ]);
 
   /**
